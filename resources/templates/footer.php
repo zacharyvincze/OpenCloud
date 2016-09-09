@@ -1,8 +1,8 @@
-      </div>
-      <footer>
-        <p>
-          This is a footer.
-        </p>
-      </footer>
-    </body>
+            </div>
+            <footer>
+                <p>
+                    This is a footer.
+                </p>
+            </footer>
+        </body>
 </html>

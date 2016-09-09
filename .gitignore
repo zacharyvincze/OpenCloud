@@ -1,2 +1,6 @@
 
 resources/configuration/config.php
+
+resources/.DS_Store
+
+.DS_Store

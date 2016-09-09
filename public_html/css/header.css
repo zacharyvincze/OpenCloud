@@ -1,14 +1,14 @@
 header {
-  height: 50px;
-  display: block;
+    height: 50px;
+    display: block;
 }
 
 /* Navbar */
 header nav {
-  color: #34495E;
-  text-align: center;
+    color: #34495E;
+    text-align: center;
 }
 
 header nav a {
-  margin: 0 10;
+    margin: 0 10;
 }
