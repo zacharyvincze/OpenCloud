@@ -11,6 +11,15 @@
 <button class="button button-normal">Login</button>
 <button class="button button-normal">Create Account</button>
 
+<table border="1">
+    <tr>
+        <th>
+            Username
+        </th>
+        <th>
+            Password
+        </th>
+    </tr>
 <?php
     $query = "SELECT * FROM users";
     $stmt = $connect->prepare($query);
@@ -18,8 +27,10 @@
     $result = $stmt->get_result();
     echo $stmt->error;
     while($row = $result->fetch_assoc()) {
-        echo "<br>";
-        echo $row['username'];
+        echo "<tr>
+                <td>" . $row['username'] . "</td>
+                <td>" . $row['password'] . "</td>
+              </tr>";
     }
 
     include_once "../resources/templates/footer.php";
