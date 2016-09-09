@@ -15,6 +15,7 @@
   $result = $stmt->get_result();
   echo $stmt->error;
   while($row = $result->fetch_assoc()) {
+    echo "<br>";
     echo $row['username'];
   }
 ?>
