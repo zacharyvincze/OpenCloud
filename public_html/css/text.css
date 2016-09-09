@@ -1,0 +1,18 @@
+.text {
+}
+
+.text-small {
+  font-size: 12px;
+}
+
+.text-normal {
+  font-size: 14px;
+}
+
+.text-big {
+  font-size: 20px;
+}
+
+.text-title {
+  font-size: 35px;
+}

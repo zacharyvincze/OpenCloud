@@ -1,0 +1,22 @@
+
+.button {
+  background-color: #59ABE3;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size 16px;
+}
+
+.button-small {
+  padding: 5 10;
+}
+
+.button-normal {
+  padding: 10 20;
+}
+
+.button-big {
+  padding: 20 30;
+}
