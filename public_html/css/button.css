@@ -7,6 +7,11 @@
     text-decoration: none;
     display: inline-block;
     font-size 16px;
+    transition: 0.2s background-color ease;
+}
+
+.button:hover {
+    background-color: #F9A603;
 }
 
 .button-small {
