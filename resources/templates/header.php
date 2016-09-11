@@ -9,6 +9,7 @@
         <link rel="stylesheet" href="/css/jumbotron.css" />
         <link rel="stylesheet" href="/css/text.css" />
         <link rel="stylesheet" href="/css/button.css" />
+        <script src="../resources/library/jquery/jquery-3.1.0.min.js"></script>
     </head>
     <body>
         <header>
