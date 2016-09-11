@@ -16,3 +16,19 @@
 .text-title {
     font-size: 35px;
 }
+
+.text-jumbo {
+    font-size: 60px;
+}
+
+.text-black {
+    color: #2c3e50;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-orange {
+    color: #F9A603;
+}

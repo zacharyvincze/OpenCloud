@@ -3,15 +3,11 @@
     include_once "../resources/templates/header.php";
 ?>
 
-<div class="background" src="/img/background.jpeg">
+<div class="background">
 </div>
 
 <div class="jumbotron">
-    <h1 class="text text-title">Welcome to <strong>Open Cloud</strong></h1>
-    <h3 class="text text-normal">Created by Zachary Vincze</h3>
+    <h1 class="text text-jumbo text-white">Welcome to <strong>OPEN</strong>Cloud</h1>
+    <h3 class="text text-big text-white">The <span class="text text-orange"><strong>simple</strong></span> place to store your files.</h3>
+    <a class="button button-normal text text-big">Access the Cloud</a>
 </div>
-
-<a class="button button-normal">Login</a>
-<a class="button button-normal">Create Account</a>
-
-<?php include_once "../resources/templates/footer.php"; ?>

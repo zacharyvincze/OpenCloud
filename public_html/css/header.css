@@ -1,11 +1,16 @@
 header {
     height: 50px;
-    display: block;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    -webkit-box-shadow: 0px 6px 34px 0px rgba(0,0,0,0.23);
+    -moz-box-shadow: 0px 6px 34px 0px rgba(0,0,0,0.23);
+    box-shadow: 0px 6px 34px 0px rgba(0,0,0,0.23);
 }
 
 /* Navbar */
 header nav {
-    color: #34495E;
+    color: #2c3e50;
     text-align: center;
 }
 
