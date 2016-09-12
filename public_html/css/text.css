@@ -32,3 +32,11 @@
 .text-orange {
     color: #F9A603;
 }
+
+.text-shadow {
+    text-shadow: 0 2px 3px rgba(0,0,0,.4);
+}
+
+.text-thin {
+    font-weight: 100;
+}

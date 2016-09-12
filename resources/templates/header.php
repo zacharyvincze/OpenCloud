@@ -9,6 +9,9 @@
         <link rel="stylesheet" href="/css/jumbotron.css" />
         <link rel="stylesheet" href="/css/text.css" />
         <link rel="stylesheet" href="/css/button.css" />
+        <link rel="stylesheet" href="/css/form.css" />
+        <script src="/js/login.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
     </head>
     <body>
         <header>
