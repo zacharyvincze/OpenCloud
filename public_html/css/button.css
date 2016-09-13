@@ -8,6 +8,11 @@
     display: inline-block;
     font-size 16px;
     transition: 0.2s background-color ease;
+    cursor: pointer;
+}
+
+.button:focus {
+    outline-width: 0px;
 }
 
 .button:hover {
@@ -23,5 +28,13 @@
 }
 
 .button-big {
-    padding: 20 30;
+    padding: 15px 40px;
+}
+
+.button-round {
+    border-radius: 10px;
+}
+
+.button-login {
+    width: 100%;
 }

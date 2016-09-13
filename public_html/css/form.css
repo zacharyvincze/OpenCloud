@@ -1,0 +1,23 @@
+form input {
+    margin-bottom: 10px;
+}
+
+form {
+    padding: 20px 40px;
+    background-color: #EEEEEE;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.username-field {
+    width: 100%;
+    height: 40px;
+    padding: 5px 0;
+}
+
+.password-field {
+    width: 100%;
+    height: 40px;
+}
